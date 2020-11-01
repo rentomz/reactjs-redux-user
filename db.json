@@ -1,0 +1,25 @@
+{
+  "users" : [
+    {
+      "id": 1,
+      "nama": "rio satrio",
+      "alamat": "jakarta",
+      "umur": 24,
+      "nohp": "0808080803"
+    },
+    {
+      "id": 2,
+      "nama": "rio febian",
+      "alamat": "tanggerang",
+      "umur": 21,
+      "nohp": "09080808"
+    },
+    {
+      "id": 3,
+      "nama": "rio anggara",
+      "alamat": "purdadi",
+      "umur": 22,
+      "nohp": "07087008"
+    }
+  ]
+}
